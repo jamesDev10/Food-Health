@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+   @apply h-screen  bg-orange-500  p-8 flex  items-center justify-center
+}
