@@ -22,4 +22,10 @@ Una vez que hayas instalado las dependencias, puedes iniciar el servidor de desa
 
 npm run start 
 
-![9b8633c4-a0e3-40fd-ba88-1f4f74ce2e87 1](https://github.com/jamesDev10/Food-Health/assets/56393379/a7ffc00e-f3b9-42ce-a0a7-6b6112e62c1e)
+### preview del proyecto
+    ![food-health-psi vercel app](https://github.com/jamesDev10/Food-Health/assets/56393379/fbcfdae8-6141-4f7c-9d4e-3717459d9b59)
+
+### Adaptada a movil
+     ![food-health-02-psi vercel app](https://github.com/jamesDev10/Food-Health/assets/56393379/197a54fa-575a-484b-bbb6-a00e35894e28)
+
+
