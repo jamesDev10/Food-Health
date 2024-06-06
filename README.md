@@ -8,7 +8,7 @@ Este es un proyecto creado con Create React App, una herramienta popular para in
 
 1. Clona este repositorio en tu máquina local:
 
-git clone https://ccjames10@bitbucket.org/jamesstiven2010/foodhealth.git
+git clone https://github.com/jamesDev10/Food-Health.git
 
 
 2. Instala las dependencias del proyecto:
